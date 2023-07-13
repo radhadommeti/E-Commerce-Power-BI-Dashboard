@@ -1,3 +1,5 @@
+![dashboard-ecommerce](https://github.com/radhadommeti/E-Commerce-Power-BI-Dashboard/assets/111019686/68c4b543-3b34-4311-8cbf-97bdbcfaa5ac)
+
 I am excited to announce the completion of my Power BI dashboard for E-commerce sales, now available on GitHub! 📊💻
 
 Throughout this project, I took a comprehensive approach, covering all essential steps from the initial introduction to addressing the problem statement. The primary focus was on creating impactful visualizations to gain valuable insights into the E-commerce sales domain.
